@@ -1,0 +1,17 @@
+{
+  "name": "telnyx-example-response-app",
+  "version": "1.0.0",
+  "description": "simple app to response to text messages",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirk-Montrose/telnyx-challenge.git"
+  },
+  "author": "Kirk Montrose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirk-Montrose/telnyx-challenge/issues"
+  },
+  "homepage": "https://github.com/Kirk-Montrose/telnyx-challenge#readme"
+}
